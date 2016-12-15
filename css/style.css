@@ -63,8 +63,8 @@
 	width: 50px;
 	margin-left: -60px;
 	position: absolute;
-	left: 40%;
-	top: 170px;
+	left: 30%;
+	top: 370px;
 }
 .rainy:after {
 	-webkit-animation: rainy_shadow 5s ease-in-out infinite 1s;
@@ -306,7 +306,7 @@
 	width: 70px;
 	margin-left: -40px;
 	position: absolute;
-	right: 40%;
+	right: 30%;
 	top: 171px;
   	-webkit-transform: rotate(40deg);
   	    -ms-transform: rotate(40deg);
@@ -362,7 +362,7 @@
 	margin-left: -60px;
 	position: absolute;
 	right: 30%;
-	top: 170px;
+	top: 370px;
 }
 .snowy:after {
 	-webkit-animation: snowy_shadow 5s ease-in-out infinite 1s;
