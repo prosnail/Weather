@@ -1,0 +1,23 @@
+.header{
+    /*margin-top: 14em;*/
+    text-align: center;
+}
+.myGit{
+    color: #64ffb0;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+    border: 1px solid #64ffb0;
+    width: 5em;
+    line-height: 2em;
+    text-align: center;
+    transition: all 1s;
+}
+.myGit:hover{
+    background: #dddddd;
+    color: #00BBFF;
+    border: 1px solid #00BBFF;
+}
+.header h2{
+    display: inline-block;
+}
