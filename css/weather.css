@@ -3,7 +3,7 @@
     text-align: center;
 }
 .myGit{
-    color: #64ffb0;
+        color: #64ffb0;
     text-decoration: none;
     display: block;
     border-radius: 4px;
@@ -12,6 +12,7 @@
     line-height: 2em;
     text-align: center;
     transition: all 1s;
+    margin: 0 auto;
 }
 .myGit:hover{
     background: #dddddd;
