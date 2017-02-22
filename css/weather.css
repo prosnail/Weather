@@ -5,7 +5,7 @@
 .myGit{
     color: #64ffb0;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     border-radius: 4px;
     border: 1px solid #64ffb0;
     width: 5em;
