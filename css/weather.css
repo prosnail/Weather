@@ -12,6 +12,7 @@
     line-height: 2em;
     text-align: center;
     transition: all 1s;
+    margin: 0 auto;
 }
 .myGit:hover{
     background: #dddddd;
